@@ -6,8 +6,8 @@ class MainClass
     public static void Main()
     {
 
-        // Task25 task25 = new Task25();
-        // Task27 task27 = new Task27();
+        Task25 task25 = new Task25();
+        Task27 task27 = new Task27();
         Task29 task29 = new Task29();
 
     }
